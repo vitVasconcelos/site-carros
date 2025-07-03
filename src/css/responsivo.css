@@ -1,0 +1,18 @@
+@media (max-width: 375px) {
+    .container {
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    .sedans, .suvs, .luxury {
+      width: 100%;
+      border-radius: 0;
+    }
+    .sedans{
+        border-radius: 5px 5px 0 0;
+    }
+    .luxury{
+        border-radius: 0 0 5px 5px;
+    }
+  }
+  
