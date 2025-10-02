@@ -1,6 +1,7 @@
 🚗 Componente de Cartões de Veículos
 
 Este projeto apresenta um layout moderno composto por três cartões informativos de categorias de veículos: Sedans, SUVs e Luxury Cars. Desenvolvido com HTML5 e CSS3, ele utiliza variáveis CSS e design responsivo 
+Este projeto foi desenvolvido para um desafio do Frontend Mentor https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
 
 📸 Demonstração
 ![image](https://github.com/user-attachments/assets/c9be70ff-5fea-432a-9627-53dd2e4b1eca)
